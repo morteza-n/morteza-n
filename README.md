@@ -54,8 +54,4 @@
   </a>
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/morteza-n/morteza-n/output/snake.svg" alt="Snake animation" />
-
-###
