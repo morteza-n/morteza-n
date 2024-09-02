@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">hellooo👋 What's up?</h1>
 
 ###
 
-<p align="left">My name is Morteza</p>
+<p align="left">◽ i'm Morteza<br>◽ Frontend / React Developer</p>
 
 ###
 
@@ -38,7 +38,7 @@
 
 ###
 
-<h1 align="left"></h1>
+<h2 align="left">Contact me</h2>
 
 ###
 
